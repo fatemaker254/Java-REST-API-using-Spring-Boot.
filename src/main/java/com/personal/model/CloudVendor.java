@@ -40,6 +40,6 @@ public class CloudVendor {
         return vendorphoneNumber;
     }
     public void setVendorphoneNumber(String vendorphoneNumber){
-        this.vendorphoneNumber = vendorphoneNumber;
+        this.vendorphoneNumber = vendorphoneNumber; 
     }
 }
